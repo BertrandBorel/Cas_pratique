@@ -1,0 +1,9 @@
+torch
+torchvision 
+torchaudio
+opencv-python
+streamlit
+streamlit-webrtc
+av
+PyYAML
+numpy
