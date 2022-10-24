@@ -1,0 +1,2 @@
+- ajouter une condition lors de la création du fichier .txt : si le fichier n'existe pas, alors le créer
+- voir pour supprimer le fichier à la fin du programme
